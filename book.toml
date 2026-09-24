@@ -25,7 +25,7 @@ exclude = [ 'forums.ankiweb.net' ]
 [output.html.redirect]
 "/index.html" = "https://docs.ankiweb.net/addons/intro"
 "/python-modules.html" = "https://docs.ankiweb.net/addons/python-modules" 
-"/editing-and-mypy.html" = "https://docs.ankiweb.net/addons/editing-and-mypy" # (response code: 404)
+"/editing-and-mypy.html" = "https://docs.ankiweb.net/addons/editor-setup"
 "/editor-setup.html" = "https://docs.ankiweb.net/addons/editor-setup" 
 "/a-basic-addon.html" = "https://docs.ankiweb.net/addons/a-basic-addon" 
 "/command-line-use.html" = "https://docs.ankiweb.net/addons/command-line-use" 
